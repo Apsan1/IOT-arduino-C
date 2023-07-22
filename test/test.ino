@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "apsan_2";
-const char* password = "CLB27631EB";
+const char* password = "";
 //C++ code for my project
 boolean PIRstate;
 boolean lastPIRstate;
